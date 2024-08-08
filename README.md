@@ -1,8 +1,9 @@
 # MM1_2401FTDS_Unsupervised_Learning_Project
 Building a collaborative and content-based recommender system for a collection of anime titles, capable of accurately predicting how a user will rate an anime title they have not yet viewed, based on their historical preferences.
-![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
 
-<div id="anime project.png" align="center">
+![IMG_3427](https://github.com/user-attachments/assets/898e0e53-07b4-4fbb-9b22-edcd222da747)
+
+
   <img src=" "C:\Users\karabo\OneDrive\Pictures\anime project.png width="550" height="300" alt=""/>
 </div>
 
