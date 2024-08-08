@@ -3,9 +3,9 @@ Building a collaborative and content-based recommender system for a collection o
 
 ![IMG_3427](https://github.com/user-attachments/assets/898e0e53-07b4-4fbb-9b22-edcd222da747)
 
+![IMG_3428](https://github.com/user-attachments/assets/fb0ae7e3-6c91-48e5-8a6b-d033f193a88d)
 
-  <img src=" "C:\Users\karabo\OneDrive\Pictures\anime project.png width="550" height="300" alt=""/>
-</div>
+  
 
 ## Table of contents
 * [1. introduction](#Introduction)
@@ -33,7 +33,7 @@ Content-Based Filtering: Creating a model that suggests anime based on the chara
 Hybrid Approach: Integrating both collaborative and content-based filtering methods to enhance recommendation accuracy.
 Evaluation and Optimization: Testing our system and fine-tuning it to provide the best possible recommendations.
 By tackling these challenges, we'll create a powerful recommender system that not only helps users discover new anime but also enhances their overall viewing experience. This project highlights the impact of machine learning in revolutionizing how we find and enjoy content in the entertainment industry.
-## 3. exploratory data analysis <a class="anchor" id="EDA"></a>
+## 3. Exploratory Data Analysis <a class="anchor" id="EDA"></a>
 A crucial step in any machine learning project, including unsupervised learning.
 
 These are the common EDA techniques we used:
@@ -52,7 +52,7 @@ These are the common EDA techniques we used:
 
 
 
-## 4. models <a class="anchor" id="models"></a>
+## 4. Models <a class="anchor" id="models"></a>
 We applied various machine learning algorithms to build our recommender system.Evaluated the performance of these models to ensure accuracy and reliability .The aim is to provide high quality reccommendations that will  enhance user experience.
 
 we have the following models after data preparation,model training , tuning and model deployment:
@@ -134,7 +134,7 @@ You should also be automatically directed to the base page of your web app. This
 - To deploy your app for all to see, click on `deploy`.
   
 - Please note: If it's your first time deploying it will redirect you to set up an account first. Please follow the instructions.
-  ## 7. Conclusion and insights<a class="anchor" id="Conclusion and insights"></a>
+  ## 7. Conclusion and Insights<a class="anchor" id="Conclusion and insights"></a>
 
   Our reccommender system has potential to significantly improve the way anime fans discover new content
 Hybrid reccommender systems effectively combine collaborative and content based filtering for personalized and accurate reccommendations. Key challenges included data sparsity and limitations in metadata qaulity.
