@@ -120,12 +120,7 @@ As a first step to becoming familiar with our web app's functioning, we recommen
     Local URL: http://localhost:8501
     Network URL: http://192.168.43.41:8501
 ```
-You should also be automatically directed to the base page of your web app. This should look something like:
-
-<div id="anime project.png" align="center">
-  <img src=" "C:\Users\karab\OneDrive\Pictures\anime project.png width="850" height="400" alt=""/>
-</div>
-
+You should also be automatically directed to the base page of your web app.
 
 #### 6.2 Deploying your Streamlit web app
 
@@ -148,6 +143,5 @@ Hybrid reccommender systems effectively combine collaborative and content based 
 | [Karabo Mathibela](https://github.com/karabomathibela)                                                | karabomathibela44@gmail.com
 | [Keneilwe Rangwaga](https://github.com/keneilwerangwaga)                                                  |patricia001105@gmail.com |                           
 | [Mahlatse Lelosa](https://github.com/mahlatselelosa)                                                                            | mahlatselelosa98@gmail.com
-| [Josephina Ndukwana](https://github.com/josephinandukwana)                                                | angelndukwani91@gmail.com
 | [Koena Macdonald](https://github.com/koenamacdonald)                                       | kmahladisa9@gmail.com
 | [Muwanwa Tshikovhi](https://github.com/muwanwatshikovhi)                                                                   | tshikovhimuwanwa@gmail.com
