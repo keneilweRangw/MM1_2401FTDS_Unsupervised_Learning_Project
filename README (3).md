@@ -1,20 +1,23 @@
 # MM1_2401FTDS_Unsupervised_Learning_Project
+
 Building a collaborative and content-based recommender system for a collection of anime titles, capable of accurately predicting how a user will rate an anime title they have not yet viewed, based on their historical preferences.
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
 
-<div id="anime project.png" align="center">
-  <img src=" "C:\Users\karabo\OneDrive\Pictures\anime project.png width="550" height="300" alt=""/>
+<div id="main image" align="center">
+  <img src=""C:\Users\karabo\OneDrive\Pictures\anime project.png width="550" height="300" alt=""/>
 </div>
 
 ## Table of contents
-* [1. introduction](#Introduction)
+
+* [1. Introduction](#Introduction)
 * [2. Project Goal](#ProjectGoal)
-* [3. exploratory data analysis](#EDA)
-* [4. models](#models)
-* [5. streamlit](#streamlit)
-* [6. conclusion and insights](#conclusionandinsights)
+* [3. Exploratory Data Analysis](#EDA)
+* [4. Models](#models)
+* [5. Streamlit](#streamlit)
+* [6. Conclusion And Insights](#conclusionandinsights)
 * [7. Team Members](#team-members)
   ## 1. Introduction <a class="anchor" id="introduction"></a>
+  
 In today's digital era, recommender systems play a crucial role in helping people find content that suits their interests. Platforms like Netflix, Amazon Prime, Showmax, and Disney rely on sophisticated algorithms to suggest movies and shows tailored to individual preferences. But have you ever wondered how these platforms seem to know your tastes so well?
 
 This project aims to develop a recommender system specifically for anime titles, leveraging advanced machine learning techniques. The system will help anime fans discover new shows that match their unique preferences, making the viewing experience more enjoyable and personalized.
@@ -22,6 +25,7 @@ This project aims to develop a recommender system specifically for anime titles,
 
 
 ## 2. Project Goal <a class="anchor" id="Project Goal"></a>
+
 The primary goal of this project is to create a recommender system that can accurately predict how users will rate anime titles they haven't watched yet. We will achieve this by combining collaborative filtering and content-based filtering methods, using a comprehensive dataset from myanimelist.net.
 
 Key challenges we will address include:
@@ -32,7 +36,8 @@ Content-Based Filtering: Creating a model that suggests anime based on the chara
 Hybrid Approach: Integrating both collaborative and content-based filtering methods to enhance recommendation accuracy.
 Evaluation and Optimization: Testing our system and fine-tuning it to provide the best possible recommendations.
 By tackling these challenges, we'll create a powerful recommender system that not only helps users discover new anime but also enhances their overall viewing experience. This project highlights the impact of machine learning in revolutionizing how we find and enjoy content in the entertainment industry.
-## 3. exploratory data analysis <a class="anchor" id="EDA"></a>
+## 3. Exploratory Data Analysis <a class="anchor" id="EDA"></a>
+
 A crucial step in any machine learning project, including unsupervised learning.
 
 These are the common EDA techniques we used:
@@ -51,7 +56,8 @@ These are the common EDA techniques we used:
 
 
 
-## 4. models <a class="anchor" id="models"></a>
+## 4. Models <a class="anchor" id="models"></a>
+
 We applied various machine learning algorithms to build our recommender system.Evaluated the performance of these models to ensure accuracy and reliability .The aim is to provide high quality reccommendations that will  enhance user experience.
 
 we have the following models after data preparation,model training , tuning and model deployment:
