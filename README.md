@@ -1,4 +1,4 @@
-# MM1_2401FTDS_Unsupervised_Learning_Project
+# MM1_2401FTDS_Anime_Recommender_Project
 Building a collaborative and content-based recommender system for a collection of anime titles, capable of accurately predicting how a user will rate an anime title they have not yet viewed, based on their historical preferences.
 
 ![IMG_3427](https://github.com/user-attachments/assets/898e0e53-07b4-4fbb-9b22-edcd222da747)
